@@ -1,4 +1,4 @@
-# LED Matrix Custom Device Driver
+# LED Matrix controller using Custom Device Driver
 
 ## Objective
 This project aims to create a user-space application to control an 8x8 LED matrix using the MAX7219 chip. The application will blink an LED in a smiley face pattern, utilizing the SPI communication protocol for interaction between the Raspberry Pi 3B and the MAX7219.
